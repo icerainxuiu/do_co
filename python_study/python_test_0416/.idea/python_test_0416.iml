@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="python_airplain" />
+    <orderEntry type="module" module-name="python_work" />
+    <orderEntry type="module" module-name="python_test_0415" />
+    <orderEntry type="module" module-name="python_test_0413" />
+    <orderEntry type="module" module-name="python_test_0412" />
+    <orderEntry type="module" module-name="python_mystudy" />
+    <orderEntry type="module" module-name="python_high" />
+    <orderEntry type="module" module-name="python_test_0417" />
+    <orderEntry type="module" module-name="python_test_0419" />
+    <orderEntry type="module" module-name="python_test_0420" />
+    <orderEntry type="module" module-name="python_study" />
+    <orderEntry type="module" module-name="python_test_0421" />
+    <orderEntry type="module" module-name="python_test_0422" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

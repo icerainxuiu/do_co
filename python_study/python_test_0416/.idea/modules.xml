@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../python_airplain/.idea/python_airplain.iml" filepath="$PROJECT_DIR$/../python_airplain/.idea/python_airplain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_high/.idea/python_high.iml" filepath="$PROJECT_DIR$/../python_high/.idea/python_high.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_mystudy/.idea/python_mystudy.iml" filepath="$PROJECT_DIR$/../python_mystudy/.idea/python_mystudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/python_study.iml" filepath="$PROJECT_DIR$/../.idea/python_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_test_0412/.idea/python_test_0412.iml" filepath="$PROJECT_DIR$/../python_test_0412/.idea/python_test_0412.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_test_0413/.idea/python_test_0413.iml" filepath="$PROJECT_DIR$/../python_test_0413/.idea/python_test_0413.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_test_0415/.idea/python_test_0415.iml" filepath="$PROJECT_DIR$/../python_test_0415/.idea/python_test_0415.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python_test_0416.iml" filepath="$PROJECT_DIR$/.idea/python_test_0416.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_test_0418/.idea/python_test_0417.iml" filepath="$PROJECT_DIR$/../python_test_0418/.idea/python_test_0417.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_test_0419/.idea/python_test_0419.iml" filepath="$PROJECT_DIR$/../python_test_0419/.idea/python_test_0419.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_test_0420/.idea/python_test_0420.iml" filepath="$PROJECT_DIR$/../python_test_0420/.idea/python_test_0420.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_test_0421/.idea/python_test_0421.iml" filepath="$PROJECT_DIR$/../python_test_0421/.idea/python_test_0421.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_test_0422/.idea/python_test_0422.iml" filepath="$PROJECT_DIR$/../python_test_0422/.idea/python_test_0422.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_work/.idea/python_work.iml" filepath="$PROJECT_DIR$/../python_work/.idea/python_work.iml" />
+    </modules>
+  </component>
+</project>

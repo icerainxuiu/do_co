@@ -1,0 +1,4 @@
+{
+"test1":{"username": "18828834449", "verify_code": "8888", "password": "123456", "password2": "123456", "expect": "注册成功"},
+"test2":{"username": "18828844440", "verify_code": "8888", "password": "123456", "password2": "123456", "expect": "注册成功"}
+}

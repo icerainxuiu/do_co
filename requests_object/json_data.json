@@ -1,0 +1,16 @@
+{
+  "test1": {
+    "username": "18828828888",
+    "password": "123456",
+    "verify_code": "8888",
+    "msg": "登陆成功",
+    "status": 1
+  },
+  "test2": {
+    "username": "18828828888",
+    "password": "123456",
+    "verify_code": "8888",
+    "msg": "登陆成功",
+    "status": 1
+  }
+}

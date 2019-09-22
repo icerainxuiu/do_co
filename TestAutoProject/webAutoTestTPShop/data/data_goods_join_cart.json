@@ -1,0 +1,10 @@
+{
+  "test1": {
+    "goods_name": "小米",
+    "expect": "添加成功"
+  },
+  "test2": {
+    "goods_name": "华为",
+    "expect": "添加成功"
+  }
+}

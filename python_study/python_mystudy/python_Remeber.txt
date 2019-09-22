@@ -1,0 +1,4 @@
+pip install -i https://pypi.doubanio.com/simple/ --trusted-host pypi.doubanio.com pillow
+
+需要注意的是，除了最后的pillow用你所期望的库名替代外，前面的参数都是固定写法，包括参数顺序。
+

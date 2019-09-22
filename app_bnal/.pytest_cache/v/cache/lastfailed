@@ -1,0 +1,6 @@
+{
+  "script/test_contact.py::TestContact::()::test_contact": true,
+  "script/test_login.py::TestLogin::()::test_login": true,
+  "script/test_login.py::TestLogin::test_login": true,
+  "script/test_update.py::TestUpdate::()::test_update": true
+}

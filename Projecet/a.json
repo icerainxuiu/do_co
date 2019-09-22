@@ -1,0 +1,127 @@
+{
+  "count": 20,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "dep_id": "T00",
+      "dep_name": "Test学院修改",
+      "master_name": "Test-Master修改",
+      "slogan": "Here is Slogan修改"
+    },
+    {
+      "dep_id": "T01",
+      "dep_name": "Test学院",
+      "master_name": "Test-Master",
+      "slogan": "Here is Slogan"
+    },
+    {
+      "dep_id": "T009",
+      "dep_name": "java",
+      "master_name": "老刘",
+      "slogan": "我是帅哥"
+    },
+    {
+      "dep_id": "T000",
+      "dep_name": "Python",
+      "master_name": "老龟",
+      "slogan": "你们没我帅"
+    },
+    {
+      "dep_id": "T04",
+      "dep_name": "Java",
+      "master_name": "葫芦娃",
+      "slogan": "救爷爷"
+    },
+    {
+      "dep_id": "T05",
+      "dep_name": "C++",
+      "master_name": "孙悟空",
+      "slogan": "救师傅"
+    },
+    {
+      "dep_id": "T06",
+      "dep_name": "Python",
+      "master_name": "机器喵",
+      "slogan": "救大雄"
+    },
+    {
+      "dep_id": "T007",
+      "dep_name": "java",
+      "master_name": "老刘",
+      "slogan": "我是帅哥"
+    },
+    {
+      "dep_id": "T006",
+      "dep_name": "C++",
+      "master_name": "老王",
+      "slogan": "我也很帅"
+    },
+    {
+      "dep_id": "T005",
+      "dep_name": "Python",
+      "master_name": "老龟",
+      "slogan": "你们没我帅"
+    },
+    {
+      "dep_id": "T011",
+      "dep_name": "王者荣耀",
+      "master_name": "鲁班七号",
+      "slogan": "智商二百五"
+    },
+    {
+      "dep_id": "T012",
+      "dep_name": "王者荣耀",
+      "master_name": "小乔",
+      "slogan": "你也要来玩吗"
+    },
+    {
+      "dep_id": "T013",
+      "dep_name": "王者荣耀",
+      "master_name": "阿珂",
+      "slogan": "你和他们没两样"
+    },
+    {
+      "dep_id": "T101",
+      "dep_name": "王者荣耀",
+      "master_name": "鲁班七号",
+      "slogan": "智商二百五"
+    },
+    {
+      "dep_id": "T102",
+      "dep_name": "法师联盟",
+      "master_name": "王昭君",
+      "slogan": "草丛你敢进？"
+    },
+    {
+      "dep_id": "T103",
+      "dep_name": "刺客联盟",
+      "master_name": "阿珂",
+      "slogan": "只会打野"
+    },
+    {
+      "dep_id": "ND_51",
+      "dep_name": "Test学院",
+      "master_name": "Test-Master",
+      "slogan": "Here is Slogan"
+    },
+    {
+      "dep_id": "ND_7",
+      "dep_name": "Test学院",
+      "master_name": "Test-Master",
+      "slogan": "Here is Slogan"
+    },
+    {
+      "dep_id": "ND_45",
+      "dep_name": "Test学院",
+      "master_name": "Test-Master",
+      "slogan": "Here is Slogan"
+    },
+    {
+      "dep_id": "ND_35",
+      "dep_name": "Test学院",
+      "master_name": "Test-Master",
+      "slogan": "Here is Slogan"
+    }
+  ]
+}

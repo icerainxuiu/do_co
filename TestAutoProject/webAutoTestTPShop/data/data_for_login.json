@@ -1,0 +1,10 @@
+{
+  "test1": {
+    "username": "18828828888",
+    "password": "123456",
+    "verify_code": "8888",
+    "is_success": true,
+    "expect": "我的账户"
+  }
+
+}

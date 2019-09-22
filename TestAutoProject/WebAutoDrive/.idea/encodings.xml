@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/day3_web/test_05_send_keys.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/day3_web/test_08_alert.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day4_web/test_add.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day4_web/test_frame_switch.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day4_web/test_window_screenshot.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day5_review/v1/tp_shop_01.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day5_review/v1/tp_shop_02.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day5_review/v2/tp_shop_v2_01.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day5_review/v3/tp_shop_v3_01.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day5_review/v3/utils.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day5_review/v4/login_page.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day5_review/v4/test_tp_shop_v4.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day5_review/v5/login_page_v5.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day5_review/v5/test_tp_shop_v5.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day6_web/v1/no_unittest_password.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day6_web/v1/no_unittest_username.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day6_web/v2/unittest_pass_name.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day6_web/v4/data_list.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day6_web/v4/login_test_html.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day6_web/v5/data_list.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day6_web/v5/login_test_html.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day6_web/v6/data_list.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day6_web/v6/ex_day6/data/test_Data.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day6_web/v6/login_test_html.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day8_web/day8/.log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test_data_list.json" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
