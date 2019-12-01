@@ -1,3 +1,6 @@
+"""
+自定义的timer模块，测试函数运行时间
+"""
 import time
 import sys
 
