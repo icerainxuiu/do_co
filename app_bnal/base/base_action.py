@@ -1,3 +1,5 @@
+from logging import log
+
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
@@ -34,7 +36,8 @@ class Action:
         try:
             self.find_element(message_path, timeout=5, poll=0.1)
             return True
-        except BaseException:
+        except BaseException as e:
+            log(str(e))
             return False
 
     def get_toast(self, message):
